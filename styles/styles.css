@@ -1,0 +1,371 @@
+body{
+    background-color:#e4edc2 !important;
+}
+.section-1{
+    background-image: url("../images/section1-BG");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    
+}
+.shape{
+    width: 50%;
+    position: absolute;
+    right: 0;
+    top: 5%;
+    z-index: -10;
+}
+.my-navbar-menu > li{
+    font-size: 25px;
+    color: #ffffff !important;
+    font-weight: 500;
+    font-family: "Ubuntu";
+    text-align: center;
+}
+.nav-link{
+    color : white !important;
+}
+.section-1> .dot-pattern1{
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    transform: translateY(50%);
+}
+.section-1> .dot-pattern2{
+    position: absolute;
+    right:5%;
+    top: 30%;
+}
+.section1-title> h1 {
+    font-size: 75px;
+    line-height: 103px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    text-align: center;
+}
+.section1-title> p {
+    font-size: 25px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: center;
+    margin-bottom: 150px;
+}
+.section2-title> h6{
+    font-size: 48px;
+    color: #7287ae;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    text-align: center;
+    margin-top: 50px;
+}
+.section2-div1> p{
+    font-size: 25px;
+    color: #504f4f;
+    font-weight: 400;
+    font-family: "Lato";
+}
+.section2-div1> h4{
+    font-size: 33px;
+    color: #504f4f;
+    font-weight: 700;
+    font-family: "Ubuntu";
+}
+.section2-button{
+    width:20%;
+    height: 50px;
+    border-radius: 38px;
+    background-color: #7287ae;
+    text-align: center
+}
+.section3-dot-blue{
+    position: absolute;
+    bottom: 0;
+    left: 25%;
+    transform: translate(-50%,50%);
+
+}
+.section3-right-div{
+    background-color: WHITE;
+    padding-left: 50px !important;
+    padding-top: 10%;
+}
+.section3-right-div> h4{
+    font-size: 35px;
+    color: #333333;
+    font-weight: 400;
+    font-family: "Ubuntu";
+   
+}
+.section3-right-div> p{
+    font-size: 29px;
+    color: #333333;
+    font-weight: 400;
+    font-family: "Lato";
+   
+}
+.section3-left-div{
+    padding-right: 0 !important;
+}
+
+.my-button-1{
+    width: 250px;
+    height: 55px;
+    border-radius: 37px !important;
+    background-color: #7287ae !important;
+    font-size: 23px;
+    letter-spacing: 5px;
+    color: #ffffff;
+    font-weight: 500 !important;
+    font-family: "Ubuntu";
+}
+.my-button{
+    width: 250px;
+    height: 55px;
+    border-radius: 37px !important;
+    background-color: #7287ae;
+    text-align: center !important;
+    margin-left: 80px;
+}
+.section4-left-div> h4{
+    font-size: 35px;
+    color: #333333;
+    font-weight: 400;
+    font-family: "Ubuntu";
+    padding-left: 20px;
+    margin-left: 80px;
+}
+.section4-left-div> p{
+    font-size: 29px;
+    color: #333333;
+    font-weight: 100;
+    font-family: "Lato";
+    padding-left: 20px;
+    margin-left: 80px;
+}
+.section4-left-div{
+    padding-right: 0 !important;
+}
+.section4-right-div{
+    padding-left: 0 !important;
+}
+.section-5 {
+   
+    height: 656px;
+    background-color: #7287ae;
+}
+.section-5-title{
+    font-size: 48px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    text-align: center;
+    
+}
+.section5-lable{
+    width: 100px;
+    height: 100px;
+    background-color: white ;
+    border-radius: 50%;
+    margin: auto;
+    
+}
+.section5-lable>h2{
+    text-align: center;
+    padding-top: 30px;
+}
+.section5-lable> h6{
+    font-size: 46px;
+    line-height: 30px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    text-align: center;
+}
+.section5-lable>p{
+    width: 387px;
+    height: 127px;
+    font-size: 19px;
+    line-height: 23px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: center;
+}
+.section5-heading-1> h6 {
+    font-size: 46px;
+    line-height: 30px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    text-align: center;
+    margin-top: 50px;
+}
+.section5-heading-1> p {
+    font-size: 19px;
+    line-height: 23px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: center;
+    margin-top: 50px;
+
+}.section5-heading-2> h6 {
+    font-size: 46px;
+    line-height: 30px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    text-align: center;
+    margin-top: 50px;
+}
+.section5-heading-2> p {
+    font-size: 19px;
+    line-height: 23px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.section5-heading-3> h6 {
+    font-size: 46px;
+    line-height: 30px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    text-align: center;
+    margin-top: 50px;
+}
+.section5-heading-3> p {
+    font-size: 19px;
+    line-height: 23px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: center;
+    margin-top: 50px;
+
+}
+.section6{
+    background-image: url(../images/section6\ bg.png);
+    height: 684px;
+}
+.section-6-title >h1{
+    font-size: 81px;
+    color: #7287ae;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    text-align: center;
+    margin-top: 80px;
+}
+.section-6-title> P{
+    font-size: 29px;
+    color: #7287ae;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: center;
+    margin-top: 70px;
+}
+.section-6-my-button{
+    margin-top: 100px;
+    border-radius: 49px;
+    background-color: #7287ae !important;
+    font-size: 30px;
+    letter-spacing: 6px;
+    line-height: 28px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Ubuntu";
+    
+}
+.section7-title>p{
+    font-size: 27px;
+    line-height: 42px;
+    color: #7287ae;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: center;
+    margin-top: 200px;
+}
+.section7-title-1>h6{
+    font-size: 32px;
+    line-height: 42px;
+    color: #7287ae;
+    font-weight: 400;
+    font-family: "Ubuntu";
+    text-align: center;
+    margin-top: 50px;
+}
+.section7-icon{
+    
+}
+.section-8 {
+    background-image: url(../images/section8\ bg.png);
+    height: 500px;
+    position: relative;
+}
+.dot-pattran{
+    position: absolute;
+    left: 17%;
+    top: 34%;
+}
+.section8-div1>h6{
+    font-size: 25px;
+    line-height: 33px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Ubuntu";
+    margin-top: 360px;
+}
+.section8-div1> p { 
+    font-size: 25px;
+    line-height: 29px;
+    color: #ffffff;
+    font-weight: 100;
+    font-family: "Lato";
+}
+.section8-div2>h5{
+    font-size: 21px;
+    line-height: 33px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    margin-top: 360px;
+}
+.section8-div2>h6{
+    font-size: 21px;
+    line-height: 33px;
+    color: #ffffff;
+    font-family: "Lato";
+}
+.section8-div3>h5{
+    font-size: 21px;
+    line-height: 33px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    margin-top: 360px;
+}
+.section8-div3>h6{
+    font-size: 21px;
+    line-height: 33px;
+    color: #ffffff;
+    font-family: "Lato";
+}
+.section8-div4>h5{
+    font-size: 21px;
+    line-height: 33px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Ubuntu";
+    margin-top: 360px;
+}
+.section8-div4>h6{
+    font-size: 21px;
+    line-height: 33px;
+    color: #ffffff;
+    font-family: "Lato";
+}
